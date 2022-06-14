@@ -4,3 +4,9 @@
 [submodule "Sensor_WiFI_client"]
 	path = Sensor_WiFI_client
 	url = https://github.com/WaGaNaWa-EingEing/Sensor_WiFI_client
+[submodule "Senser_database_server"]
+	path = Senser_database_server
+	url = https://github.com/WaGaNaWa-EingEing/Senser_database_server
+[submodule "Senser_request_server"]
+	path = Senser_request_server
+	url = https://github.com/WaGaNaWa-EingEing/Senser_request_server
