@@ -1,3 +1,6 @@
 [submodule "Admin_app"]
 	path = Admin_app
 	url = https://github.com/Hongsi-Taste/Swn_wifi_admin.git
+[submodule "Sensor_WiFI_client"]
+	path = Sensor_WiFI_client
+	url = https://github.com/WaGaNaWa-EingEing/Sensor_WiFI_client
